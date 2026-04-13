@@ -2,8 +2,25 @@
 # 🛡️ Web Application Firewall (WAF) Home Lab
 
 **WAF Home Lab** is a hands-on cybersecurity project that simulates real-world web attacks and demonstrates how a Web Application Firewall (WAF) protects applications against malicious traffic.
+<h2 align="center">📸 Project Screenshots</h2>
 
-<img width="973" height="659" alt="image" src="https://github.com/user-attachments/assets/271e8587-6141-46c7-ba4a-d2d7b1d1640f" />
+<p align="center">
+  <table align="center" cellspacing="10">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/80c5bedd-4656-4d0c-8a95-9d10ed7b8854" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/fd2a36a5-ca7d-4e60-82d3-80c37eb6a409" width="100%" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/271e8587-6141-46c7-ba4a-d2d7b1d1640f" width="80%" />
+</p>
+
 
 ---
 
