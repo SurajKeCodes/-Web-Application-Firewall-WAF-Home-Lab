@@ -174,7 +174,7 @@ All attacks were performed in a controlled lab environment.
 ---
 
 ## 📄 License
+
 This project is licensed under the MIT License.
 
-```
-
+---
